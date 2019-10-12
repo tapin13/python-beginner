@@ -1,3 +1,3 @@
-# python-beginner
+# Python Beginner
 
 Python beginner examples.
