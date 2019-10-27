@@ -64,8 +64,6 @@ print("bag " + str(bagSet) )
 
 lightStatus = False
 
-print("Light " + str(lightStatus) )
-
 print("Light is " + str(lightStatus) )
 
 lightStatus = True
